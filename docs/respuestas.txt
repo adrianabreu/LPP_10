@@ -1,2 +1,6 @@
 12. Git solo es capaz de añadir ficheros, al crear solamente directorios no puede añadir nada al arbol y por tanto no tiene nada que guardar.
 Trabajo en equipo con git
+52: Diferencia entre compilacion e interpretacion:
+ 
+Una compilacion es una traduccion completa del codigo fuente a lenguaje maquina que genera un ejecutable.
+La interpretacion es la traduccion linea a linea del codigo fuente en tiempo de ejecución por lo que no genera ejecutable alguno.
