@@ -4,3 +4,10 @@ Trabajo en equipo con git
  
 Una compilacion es una traduccion completa del codigo fuente a lenguaje maquina que genera un ejecutable.
 La interpretacion es la traduccion linea a linea del codigo fuente en tiempo de ejecución por lo que no genera ejecutable alguno.
+
+59:¿Cuál es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb?
+
+La primer alinea de ambas.
+
+¿Qué significado tiene la primera línea del fichero helloWorld.sh?
+Especifica el interprete de shell a utilizar
